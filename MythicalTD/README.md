@@ -1,4 +1,4 @@
-# Mythical TD v0.7.2!
+# Mythical TD v0.8!
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Vizxls/StefanHub/refs/heads/main/MythicalTD/main.lua"))()
