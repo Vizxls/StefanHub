@@ -7,6 +7,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Vizxls/StefanHub/refs
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Vizxls/StefanHub/refs/heads/main/MythicalTD/mainexecsupport.lua"))()
 ```
+## Update 0.8 Alpha!
+- Fixed Up More Things Again
+- Changed Shop a bit.
+- Added ID copier.
+- Added new difficlty 'Diabolical' to cool
+- More themes.
+- Added Icon's and Changed Name
+- Fixed Save tab and some other issues im too lazy to type out.
 
 ## Update 0.7.3 Alpha!
 - Fixed Up More Things
