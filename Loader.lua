@@ -155,7 +155,7 @@ Loader.Files = {
     ["Debug"] = { Author = "tgh", File = "DebugHub/main.lua", CreatorId = 5687644470 },
     ["The Strongest Battleground"] = { Author = "tgh", File = "TSB/main.lua", CreatorId = 12013007 },
     ["Steal a Brainrot"] = { Author = "tgh", File = "StealBrainrot/main.lua", CreatorId = 35815907 },
-    ["train ur troops"] = { Author = "tgh", File = "traintroops/main.lua", CreatorId = 1003047045 }
+    ["train ur troops"] = { Author = "tgh", File = "traintroops/main.lua", CreatorId = 1003047045 },
     ["test"] = { Author = "tgh", File = "testing/main.lua", CreatorId = 5687644470 }
 }
 
