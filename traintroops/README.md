@@ -8,3 +8,5 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Vizxls/StefanHub/refs
 - Fixed drop down list having problems
 - Added Features for tut!
 - Added Autobuy feature
+- (0.1.1) Added Anti-AFK using Jump
+- (0.1.1) FIXED BUGGED SCRIPT NOT LOADING TABS
